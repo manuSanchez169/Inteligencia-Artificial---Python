@@ -1,5 +1,9 @@
-*Nombre Estudiante:* Manuela Sánchez Arenas
+### Proyecto de Kaggle - Entrega 1
 
-*Cédula:* 1000872238
+**Nombre del Estudiante:** Manuela Sánchez Arenas  
 
-*Programa:* Ingeniería de Materiales
+**Cédula:** 1000872238  
+
+**Programa:** Ingeniería de Materiales
+
+---
