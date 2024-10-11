@@ -6,6 +6,6 @@
 
 **Programa:** Ingeniería de Materiales
 
-**Video enlace:** 
+**Video enlace:** https://youtu.be/s_hivvuoQpA
 
 ---
